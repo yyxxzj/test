@@ -3,4 +3,14 @@
   <groupId>com.njq</groupId>
   <artifactId>test</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  
+  <dependencies>
+  
+  	<!-- https://mvnrepository.com/artifact/com.netflix.hystrix/hystrix-core -->
+<dependency>
+    <groupId>com.netflix.hystrix</groupId>
+    <artifactId>hystrix-core</artifactId>
+    <version>1.5.12</version>
+</dependency>
+  </dependencies>
 </project>
